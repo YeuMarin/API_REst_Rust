@@ -1,0 +1,9 @@
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Despliegue\Helados\target\debug\deps\futures_macro-1088da033968be13.dll: C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\lib.rs C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\executor.rs C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\join.rs C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\select.rs C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\stream_select.rs
+
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Despliegue\Helados\target\debug\deps\futures_macro-1088da033968be13.d: C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\lib.rs C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\executor.rs C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\join.rs C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\select.rs C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\stream_select.rs
+
+C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\lib.rs:
+C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\executor.rs:
+C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\join.rs:
+C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\select.rs:
+C:\Users\yeudi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.28\src\stream_select.rs:

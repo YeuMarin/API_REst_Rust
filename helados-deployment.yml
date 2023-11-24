@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: heladosapp-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: helados-app
+  template:
+    metadata:
+      labels:
+        app: helados-app
+    spec:
+      containers:
+        - name: helados-container
+          image: yeumarin/apirust
+          env:
+            - name: DATA_URL
+              value: postgres://postgres:postgres@postgres-service:5432/postgres
+          ports:
+            - containerPort: 8080
+
+---
+apiVersion: v1
+kind: Service
+metadata: 
+  name: helados-service
+spec:
+  selector:
+    app: helados-app
+  ports:
+    - protocol: TCP
+      port: 8080
+      targetPort: 8080
